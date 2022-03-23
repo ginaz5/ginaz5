@@ -1,4 +1,5 @@
 ### Hi there 👋
+It's Gina and welcome to my github, I am working on spring framework related projects recently and writing some articles as well.
 
 <!--
 **ginaz5/ginaz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
